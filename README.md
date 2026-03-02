@@ -56,12 +56,16 @@ SmartConvoy AI (SARATHI) solves critical challenges in military convoy operation
 - **Multi-Route Analysis**: Primary and alternative route comparison
 - **Distance & Duration**: Accurate ETA predictions with baseline comparisons
 
+- ![d](https://github.com/user-attachments/assets/7155058e-f31b-46b3-b495-b25b8929fd6a)
+
 ### 2. Risk-Aware Routing (Unique!)
 - **Dynamic Risk Detection**: Real-time analysis of routes against risk zones
 - **Safe Alternatives**: Automatically suggests safer routes when risks detected
 - **Visual Comparison**: Side-by-side display of original vs safe routes
 - **Risk Zones Database**: Pre-loaded risk areas with severity levels (low/medium/high)
 - **Geometric Algorithms**: Point-to-line segment distance calculations for precision
+
+- ![risk](https://github.com/user-attachments/assets/80c68b90-763a-49d9-a7bf-56e90ac607ce)
 
 ### 3. AI Chat Assistant (Sarathi)
 - **Google Gemini Integration**: Advanced AI for convoy operations support
@@ -84,6 +88,7 @@ SmartConvoy AI (SARATHI) solves critical challenges in military convoy operation
   - Route detour time estimation
   - Fuel savings calculation (₹ and liters)
 - **Multiple Scenarios**: Suggests best merge options
+- 
 
 ### 6. Analytics Dashboard
 - **Real-Time Metrics**:
